@@ -4,5 +4,4 @@ module.exports={
     host: "ec2-52-0-65-165.compute-1.amazonaws.com",
     database:"dft26cp2nvmf28",
     port: 5432,
-    ssl: true
 }
