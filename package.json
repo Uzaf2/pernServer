@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node index"
   },
-  "author": "henry",
+  "author": "usman",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
